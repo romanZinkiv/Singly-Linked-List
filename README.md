@@ -1,1 +1,1 @@
-# Singly Linked List
+# implementation of a singly linked list
